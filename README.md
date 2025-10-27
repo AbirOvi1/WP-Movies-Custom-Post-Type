@@ -1,4 +1,4 @@
-#  Movies Custom Post Type Plugin
+#  WP Movies Custom Post Type Plugin
 
 A lightweight and developer-friendly **WordPress plugin** that adds a **Movies** custom post type with **Genres taxonomy** and **custom meta fields** (Director, Release Year).  
 Perfect for learning or showcasing your WordPress development skills.
@@ -22,7 +22,7 @@ Perfect for learning or showcasing your WordPress development skills.
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/yourusername/movies-custom-posttype.git
+   git clone https://github.com/yourusername/wp-movies-custom-post-type.git
 2. Copy the folder to:
 
 /wp-content/plugins/   
